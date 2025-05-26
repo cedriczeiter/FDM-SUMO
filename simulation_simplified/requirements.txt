@@ -1,0 +1,12 @@
+numpy
+matplotlib
+pandas
+traci
+pyproj
+geopandas 
+requests
+geopy
+shapely
+descartes
+argparse
+numba
